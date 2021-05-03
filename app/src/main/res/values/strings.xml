@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FindAuthor</string>
+    <string name="instructions">Enter a Book Name to find the Author</string>
+    <string name="button_text">Search Book</string>
+    <string name="input_hint">Book Title</string>
+    <string name="no_results">No results Found</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_term">No Search Item Entered</string>
+</resources>
